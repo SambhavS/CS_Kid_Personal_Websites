@@ -10,6 +10,7 @@ A list of personal websites of some cool kids (most of whom study CS, with a few
 * [Emerson Hsieh](https://www.emersonhsieh.com/)
 * [Kevin Wang](https://xorkevin.com/)
 * [Hermish Mehta](https://www.ocf.berkeley.edu/~hermish/)
+* [Amy Jian](https://amyjian.com/)
 * [Michael Yu](https://mnyu.cc/)
 * [Katrina Romulo](https://katrinaromulo.com/)
 * [Janaki Vivrekar](https://janakivivrekar.com/)
