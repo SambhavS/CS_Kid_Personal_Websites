@@ -7,7 +7,7 @@ A list of personal websites of some cool kids (most of whom study CS, with a few
 * [Rohan Bavishi](https://rbavishi.github.io/)
 * [Richard Huang](https://aeoly.us/)
 * [Emerson Hsieh](https://www.emersonhsieh.com/)
-* [Kevin Wang[(https://xorkevin.com/)
+* [Kevin Wang](https://xorkevin.com/)
 * [Hermish Mehta](https://www.ocf.berkeley.edu/~hermish/)
 * [Michael Yu](https://mnyu.cc/)
 * [Katrina Romulo](https://katrinaromulo.com/)
@@ -16,18 +16,18 @@ A list of personal websites of some cool kids (most of whom study CS, with a few
 * [Jonathan Chan](https://jonathanchan.me/)
 * [Ben Stobaugh](http://helloben.co/)
 * [Dylan Tran](https://dtran16.github.io/)
-* https://s-tian.github.io/
-* http://sophialau.me/
-* http://www.janetxu.com/
-* https://axyzhao.github.io/
-* http://www.kalvinlam.com 
-* https://kameshvedula.com/
-* https://www.tyleryep.com/
-* https://rohanvarma.me/
-* https://neeleshdodda.com/
-* https://www.selynnasun.com/
-* https://raymondhfeng.github.io/
-* https://swetharevanur.github.io/
-* http://linkevin.io/
-* https://violetsinn.github.io/
-* https://gauravsharma1999.github.io/
+* [Stephen Tian](https://s-tian.github.io/)
+* [Janet Xu](http://www.janetxu.com/)
+* [Alex Zhao](https://axyzhao.github.io/)
+* [Kalvin Lam](http://www.kalvinlam.com)
+* [Kamesh Vedula](https://kameshvedula.com/)
+* [Tyler Yep](https://www.tyleryep.com/)
+* [Rohan Varma](https://rohanvarma.me/)
+* [Neelesh Dodda](https://neeleshdodda.com/)
+* [Sophia Lau](http://sophialau.me/)
+* [Seylnna Sun](https://www.selynnasun.com/)
+* [Raymond Feng](https://raymondhfeng.github.io/)
+* [Swetha Revanur](https://swetharevanur.github.io/)
+* [Kevin Lin](http://linkevin.io/)
+* [Violet Sinnarkar](https://violetsinn.github.io/)
+* [Gaurav Sharma](https://gauravsharma1999.github.io/)
