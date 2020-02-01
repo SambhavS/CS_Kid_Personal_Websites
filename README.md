@@ -1,26 +1,26 @@
 # CS Kid PersonalWebsites
 A list of personal websites of some cool kids (most of whom study CS, with a few exceptions)
 
-* https://kristielim.github.io/
-* https://www.antoncao.me/
-* https://sambhavs.github.io/
-* https://rbavishi.github.io/
-* https://aeoly.us/
-* https://www.emersonhsieh.com/
-* https://xorkevin.com/
-* https://www.ocf.berkeley.edu/~hermish/
-* https://mnyu.cc/
-* https://katrinaromulo.com/
-* https://janakivivrekar.com/
-* https://paul.bitutsky.com/
-* https://jonathanchan.me/
-* http://helloben.co/
-* https://dtran16.github.io/
+* [Kristie Lim](https://kristielim.github.io/)
+* [Anton Cao](https://www.antoncao.me/)
+* [Sambhav](https://sambhavs.github.io/)
+* [Rohan Bavishi](https://rbavishi.github.io/)
+* [Richard Huang](https://aeoly.us/)
+* [Emerson Hsieh](https://www.emersonhsieh.com/)
+* [Kevin Wang[(https://xorkevin.com/)
+* [Hermish Mehta](https://www.ocf.berkeley.edu/~hermish/)
+* [Michael Yu](https://mnyu.cc/)
+* [Katrina Romulo](https://katrinaromulo.com/)
+* [Janaki Vivrekar](https://janakivivrekar.com/)
+* [Paul Bitutsky](https://paul.bitutsky.com/)
+* [Jonathan Chan](https://jonathanchan.me/)
+* [Ben Stobaugh](http://helloben.co/)
+* [Dylan Tran](https://dtran16.github.io/)
 * https://s-tian.github.io/
 * http://sophialau.me/
 * http://www.janetxu.com/
 * https://axyzhao.github.io/
-* https://www.kalvinlam.com 
+* http://www.kalvinlam.com 
 * https://kameshvedula.com/
 * https://www.tyleryep.com/
 * https://rohanvarma.me/
