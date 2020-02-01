@@ -1,4 +1,4 @@
-# CS_Kid_Personal_Websites
+# CS Kid PersonalWebsites
 A list of personal websites of some cool kids (most of whom study CS, with a few exceptions)
 
 * https://kristielim.github.io/
