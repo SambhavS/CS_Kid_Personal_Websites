@@ -3,6 +3,7 @@ A list of personal websites of some cool kids (most of whom study CS, with a few
 
 * [Kristie Lim](https://kristielim.github.io/)
 * [Anton Cao](https://www.antoncao.me/)
+* [Rohan Joshi](https://www.ocf.berkeley.edu/~rohanjoshi/)
 * [Sambhav](https://sambhavs.github.io/)
 * [Rohan Bavishi](https://rbavishi.github.io/)
 * [Richard Huang](https://aeoly.us/)
