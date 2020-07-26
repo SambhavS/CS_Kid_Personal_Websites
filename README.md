@@ -14,7 +14,7 @@ A list of personal websites of some cool kids (most of whom study CS, with a few
 * [Michael Yu](https://mnyu.cc/)
 * [Katrina Romulo](https://katrinaromulo.com/)
 * [Simon Wong](https://simonwong.io/)
-* [Karly Hou] (https://www.karlyhou.com/)
+* [Karly Hou](https://www.karlyhou.com/)
 * [Janaki Vivrekar](https://janakivivrekar.com/)
 * [Paul Bitutsky](https://paul.bitutsky.com/)
 * [Jonathan Chan](https://jonathanchan.me/)
