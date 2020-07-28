@@ -21,7 +21,6 @@ A list of personal websites of some cool kids (most of whom study CS, with a few
 * [Ben Stobaugh](http://helloben.co/)
 * [Dylan Tran](https://dtran16.github.io/)
 * [Stephen Tian](https://s-tian.github.io/)
-* [Janet Xu](http://www.janetxu.com/)
 * [Alex Zhao](https://axyzhao.github.io/)
 * [Kalvin Lam](http://www.kalvinlam.com)
 * [Kamesh Vedula](https://kameshvedula.com/)
